@@ -1,0 +1,47 @@
+
+===> Start of program
+2022-10-16T17:20:24.923592300Z===
+Bad login by Adrian.
+2022-10-16T17:20:28.634588Z===
+Bad login by 1234.
+2022-10-16T17:20:30.547955300Z===
+Bad login by adria.
+===> End of program
+===> Start of program
+2022-10-16T17:20:44.644597600Z===
+Successful login by adrian.
+===> End of program
+===> Start of program
+Date: 2022-10-16T17:46:29.761294300Z===
+Successful login by adrian.
+===> End of program
+===> Start of program
+Date: 2022-10-16T17:48:07.887394700Z===
+Incorrect userName provided by roma.
+Date: 2022-10-16T17:48:09.835367100Z===
+Incorrect userName provided by roma.
+===> End of program
+===> Start of program
+Date: 2022-10-16T17:48:52.775034Z===
+Incorrect userName provided by roma.
+===> Start of program
+Date: 2022-10-16T17:53:51.694322900Z===
+Incorrect userName provided by pepe.
+Date: 2022-10-16T17:53:54.528489900Z===
+Incorrect userName provided by pepe.
+===> Start of program
+Date: 2022-10-16T17:54:32.746342300Z===
+Successful login by adrian.
+===> End of program
+===> Start of program
+Date: 2022-10-16T18:10:47.391549200Z===
+Incorrect userName provided by pepe.
+Date: 2022-10-16T18:10:56.192268900Z===
+Bad login by adrian.
+Date: 2022-10-16T18:11:02.125587700Z===
+Bad login by adrian.
+===> End of program
+===> Start of program
+Date: 2022-10-16T18:11:37.940232400Z===
+Successful login by adrian.
+===> End of program
